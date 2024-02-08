@@ -1,0 +1,82 @@
+.navbar a{
+		color: white;
+}
+
+
+.nav li a:hover{
+		background-color: green;
+}
+
+.navbar-custom{
+	position: absolute;
+	top: 0;
+	width: 100%;
+}
+
+header{
+	height: 30 0px;
+	padding: 100px 50px;
+	color: white;
+
+}
+
+header h1{
+	font-size: 50px;
+}
+
+#post {
+	border-bottom: 1px solid black;
+}
+
+#post h1 {
+	font-weight: bold;
+}
+
+#post h1 a{
+	color: green;
+	text-decoration: none;
+}
+
+#post h1 a:hover{
+	color: yellow;
+}
+
+
+
+
+
+.down-btn {
+	padding: 50px 0px;
+}
+
+
+.btn-default{
+	border-radius: 20px;
+	color: white;
+	background: green;
+}
+
+.btn-default:hover {
+	background: gold;
+	color: black;
+}
+
+.nav-mycenter{
+	float: none;
+	display: table;
+	table-layout: fixed;
+	margin: 0 auto;
+}
+
+.nav-mycenter li a:hover {
+	background: green;
+	color: white;
+}
+
+.nav-mycenter li a {
+	color: green;
+}
+
+.m-col {
+	-webkit-column-count: 3;
+}
